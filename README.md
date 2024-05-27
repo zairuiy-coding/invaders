@@ -9,7 +9,7 @@
 - 🔊 Sound effects for shooting, explosions, and game events.
 
 ## Installation
-To run 🚀 Game Title, you need to have Rust and Cargo installed on your machine.
+To run 🚀 Invaders, you need to have Rust and Cargo installed on your machine.
 
 1. Clone the repository:
    ```bash
@@ -20,22 +20,24 @@ To run 🚀 Game Title, you need to have Rust and Cargo installed on your machin
     cargo run
 
 ## Game Rules
-- Use the left and right arrow keys to move your spaceship.
-- Press space to shoot at the invaders.
-- Avoid letting invaders reach the bottom of the screen or it’s game over.
-- The game increases in difficulty as more waves of invaders are defeated.
+- 👾 Use the left and right arrow keys to move your spaceship.
+- 💥 Press space to shoot at the invaders.
+- 🚫 Avoid letting invaders reach the bottom of the screen or it’s game over.
+- ⭐ The game increases in difficulty as more waves of invaders are defeated.
 
 ## How to Play
-- Launch the game from a terminal: `cargo run`
-- Control the spaceship using the keyboard:
-- `Left Arrow`: Move left
-- `Right Arrow`: Move right
-- `Spacebar`: Shoot
+- 🎮 Launch the game from a terminal: `cargo run`
+- 🕹️ Control the spaceship using the keyboard:
+- ⬅️ `Left Arrow`: Move left
+- ➡️ `Right Arrow`: Move right
+- 🔫 `Spacebar`: Shoot
 
 ## Game Demo
 ![invaders_game_demo](invaders_game_demo.gif)
 
 ## Class Diagram
+![invaders_class_diagram](invaders_class_diagram.png)
 
 ## Acknowledgements
-This project is developed from the Rust Crash Course on Udemy created by Nathan Stocks: https://www.udemy.com/course/ultimate-rust-crash-course/?couponCode=MEMDAYMTNEW52724
+This project is developed from the Rust Crash Course on Udemy created by Nathan Stocks: Ultimate Rust Crash Course
+https://www.udemy.com/course/ultimate-rust-crash-course/?couponCode=MEMDAYMTNEW52724
