@@ -1,15 +1,15 @@
-# Invaders
+# 🚀 Invaders
 
 ## Description
-Invaders is a terminal-based space invaders game developed in Rust. The game features a player-controlled spaceship that can move left or right and shoot at incoming invaders. The objective is to destroy all invaders before they reach the bottom of the screen.
+👾 Invaders is a terminal-based space invaders game developed in Rust. The game features a player-controlled spaceship that can move left or right and shoot at incoming invaders. The objective is to destroy all invaders before they reach the bottom of the screen.
 
 ## Features
-- Player movement and shooting mechanics.
-- Progressive difficulty with increasing speed of invaders.
-- Sound effects for shooting, explosions, and game events.
+- 🚀 Player movement and shooting mechanics.
+- 🎮 Progressive difficulty with increasing speed of invaders.
+- 🔊 Sound effects for shooting, explosions, and game events.
 
 ## Installation
-To run Game Title, you need to have Rust and Cargo installed on your machine.
+To run 🚀 Game Title, you need to have Rust and Cargo installed on your machine.
 
 1. Clone the repository:
    ```bash
