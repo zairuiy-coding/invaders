@@ -37,7 +37,3 @@ To run 🚀 Invaders, you need to have Rust and Cargo installed on your machine.
 
 ## Class Diagram
 ![invaders_class_diagram](invaders_class_diagram.png)
-
-## Acknowledgements
-This project is developed from the Rust Crash Course on Udemy created by Nathan Stocks: Ultimate Rust Crash Course
-https://www.udemy.com/course/ultimate-rust-crash-course/?couponCode=MEMDAYMTNEW52724
