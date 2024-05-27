@@ -13,7 +13,7 @@ To run 🚀 Invaders, you need to have Rust and Cargo installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gametitle.git
+   git clone https://github.com/zairuiy-coding/invaders.git
    cd invaders
 2. Build and run the game:
     ```bash
