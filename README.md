@@ -33,7 +33,7 @@ To run Game Title, you need to have Rust and Cargo installed on your machine.
 - `Spacebar`: Shoot
 
 ## Game Demo
-![invaders_game_demo (2x speed)](<invaders_game_demo (2x speed).gif>)
+![invaders_game_demo](invaders_game_demo.gif)
 
 ## Class Diagram
 
